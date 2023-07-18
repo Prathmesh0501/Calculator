@@ -1,0 +1,32 @@
+.box{
+    background-color: aqua;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: fit-content;
+    padding: 20px;
+}
+
+h1{
+    text-align: center;
+}
+
+.row{
+    width: max-content;
+    margin: 4px 0px;
+}
+
+.button{
+    padding: 19px 24px;
+    border-radius: 30px;
+    margin: 0px 5px;
+    font-size: 20px;
+}
+
+.text{
+    width: 265px;
+    font-size: 20px;
+    padding: 10px 14px;
+    border-radius: 30px;
+}
